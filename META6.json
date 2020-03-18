@@ -1,0 +1,21 @@
+{
+  "meta-version": "0",
+  "name": "Tabular",
+  "version": "0.0.0",
+  "auth": "github:littlebenlittle",
+  "api": "0.0",
+  "description": "Grammar to parse tabular data",
+  "source-url": "git://github.com/littlebenlittle/raku-tabular",
+  "perl": "6.*",
+  "author": "Ben Little <ben.little@fruition.net>",
+  "tags": [
+    "csv",
+    "tsv",
+    "parse",
+    "table"
+  ],
+  "license": "Artistic-2.0",
+  "provides": {
+    "Tabular": "lib/Tabular.rakumod"
+  }
+}
